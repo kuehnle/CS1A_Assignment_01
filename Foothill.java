@@ -1,5 +1,5 @@
 
-public class Foothill
+public class Foothill //adding a comment for git
 {
    public static void main(String[] args)
    {
